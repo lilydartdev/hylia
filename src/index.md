@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Design systems and other adventures in tech
+title: Design systems and other adventures
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
