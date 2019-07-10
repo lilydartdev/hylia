@@ -1,10 +1,8 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Design systems and other adventures in tech
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia)
+**Lily Dart** is Head of Design Systems at Lloyds Banking Group. She cares about making super cool design systems, the increasingly fuzzy intersection of designers and developers, and creating diverse and collaborative teams.
