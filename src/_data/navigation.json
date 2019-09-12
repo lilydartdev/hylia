@@ -7,7 +7,8 @@
     },
     {
       "text": "Speaking",
-      "url": "/pages/speaking"
+      "url": "/pages/speaking",
+      "external": false
     },
     {
       "text": "Twitter",
