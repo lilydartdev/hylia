@@ -12,29 +12,7 @@ const EXCLUDED_URLS = [
 ];
 
 // URLS that we want to be cached when the worker is installed
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-regular.woff2'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-regular.woff'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-regular.ttf'];
-
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-italic.woff2'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-italic.woff'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-italic.ttf'];
-
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-700.woff2'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-700.woff'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-700.ttf'];
-
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-700italic.woff2'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-700italic.woff'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-700italic.ttf'];
-
-const PRE_CACHE_URLS = ['/', '/fonts/dm-serif-display-v3-latin-regular.woff2'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-serif-display-v3-latin-regular.woff'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-serif-display-v3-latin-regular.ttf'];
-
-const PRE_CACHE_URLS = ['/', '/fonts/dm-serif-display-v3-latin-italic.woff2'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-serif-display-v3-latin-italic.woff'];
-const PRE_CACHE_URLS = ['/', '/fonts/dm-serif-display-v3-latin-italic.ttf'];
+const PRE_CACHE_URLS = ['/', '/fonts/dm-sans-v3-latin-regular.woff2', '/fonts/dm-sans-v3-latin-regular.woff', '/fonts/dm-sans-v3-latin-regular.ttf', '/fonts/dm-sans-v3-latin-italic.woff2','/fonts/dm-sans-v3-latin-italic.woff','/fonts/dm-sans-v3-latin-italic.ttf','/fonts/dm-sans-v3-latin-700.woff2','/fonts/dm-sans-v3-latin-700.woff','/fonts/dm-sans-v3-latin-700.ttf', '/fonts/dm-sans-v3-latin-700italic.woff2','/fonts/dm-sans-v3-latin-700italic.woff', '/fonts/dm-sans-v3-latin-700italic.ttf', '/fonts/dm-serif-display-v3-latin-regular.woff2', '/fonts/dm-serif-display-v3-latin-regular.woff', '/fonts/dm-serif-display-v3-latin-regular.ttf', '/fonts/dm-serif-display-v3-latin-italic.woff2', '/fonts/dm-serif-display-v3-latin-italic.woff', '/fonts/dm-serif-display-v3-latin-italic.ttf'];
 
 
 // You might want to bypass a certain host
