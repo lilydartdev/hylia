@@ -12,4 +12,10 @@ tags:
 
 ## No excuse user research
 
-As designers and developers, we don’t always have access to research to about our end users, or the opportunity to learn about them. This can leave us building products based on our managers personal opinion, or client specifications, and never really knowing how we can serve our users better.But the good news is there are many opportunities for user research that most designers and developers just aren’t aware of. They are cheap, easy to implement, and can used straight away on almost any project.
+I decided to write this talk because I commonly come across the perception that user research is expensive, time consuming and out of reach for many organisations. This leaves many organisations entirely without insight about their users, their needs, and their experiences.
+
+Without that insight, we're often left building products and services based on our managers personal opinion, or our clients specifications. For many designers and developers, this can leave us feeling unfilled at the end of the day. We never know if we're building useful things for our users, and our expertise and knowledge often gets ignored during the design process. 
+
+So, I wanted to talk about some of the opportunities for user research that most designers and developers just aren’t aware of. During this talk I discuss three methods; all are cheap, easy to implement, and can used straight away on almost any project existing project.
+
+If you have any questions, you can find me on [@lily_dart](twitter.com/lily_dart), and you can find the rest of my published talks on the speaking page.
