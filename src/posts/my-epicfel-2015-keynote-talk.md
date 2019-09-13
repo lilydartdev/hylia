@@ -1,9 +1,11 @@
 ---
 layout: layouts/post.njk
-title: My EpicFEL 2015 keynote talk
+title: Building stronger teams for better user experience - EpicFEL Keynote 2015
 date: 2015-09-30T13:58:10.634Z
 tags:
   - speaking
+  - building teams
+  - design leadership
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gharV9h-lzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
