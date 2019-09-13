@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: No excuse user research - my Laracon 2016 talk
+title: No excuse user research - Laracon 2016
 metaTitle: ''
 date: 2016-10-26T14:02:36.895Z
 tags:
