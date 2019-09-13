@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: No excuses user research at NDC London
+title: No excuse user research - NDC London
 date: 2016-04-08T17:25:13.928Z
 tags:
   - user research
   - usability testing
   - guerrilla research
-  - talks
+  - speaking
 ---
 The video from my talk on "No excuses user research" at NDC London is now available online.
 
