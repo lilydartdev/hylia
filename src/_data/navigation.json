@@ -6,8 +6,17 @@
       "external": false
     },
     {
+      "text": "Speaking",
+      "url": "/tags/speaking/"
+    },
+    {
       "text": "Twitter",
       "url": "https://twitter.com/lily_dart",
+      "external": true
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lilydart",
       "external": true
     }
   ]
